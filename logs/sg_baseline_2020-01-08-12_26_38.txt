@@ -1,0 +1,3 @@
+2020-01-08 12:26:38,042 scene_graph_generation INFO: Namespace(algorithm='sg_baseline', config_file='configs/faster_rcnn_res101.yaml', distributed=False, inference=True, instance=-1, local_rank=0, resume=500, use_freq_prior=False, visualize=False)
+2020-01-08 12:26:38,042 scene_graph_generation INFO: Loaded configuration file configs/faster_rcnn_res101.yaml
+2020-01-08 12:26:38,042 scene_graph_generation INFO: Saving config into: logs/config.yml

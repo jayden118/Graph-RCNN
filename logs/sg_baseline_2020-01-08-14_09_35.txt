@@ -1,0 +1,7 @@
+2020-01-08 14:09:35,962 scene_graph_generation INFO: Namespace(algorithm='sg_baseline', config_file='configs/faster_rcnn_res101.yaml', distributed=False, inference=False, instance=-1, local_rank=0, resume=0, use_freq_prior=False, visualize=False)
+2020-01-08 14:09:35,962 scene_graph_generation INFO: Loaded configuration file configs/faster_rcnn_res101.yaml
+2020-01-08 14:09:35,962 scene_graph_generation INFO: Saving config into: logs/config.yml
+2020-01-08 14:09:53,411 scene_graph_generation.trainer INFO: Train data size: 56224
+2020-01-08 14:09:53,411 scene_graph_generation.trainer INFO: Test data size: 26446
+2020-01-08 14:09:55,504 scene_graph_generation.checkpointer INFO: Loading checkpoint from checkpoints/vg_benchmark_object/R-101-C4/faster_rcnn/BatchSize_6/Base_LR_0.005/checkpoint_0099999.pth
+2020-01-08 14:09:55,712 scene_graph_generation.trainer INFO: Start training
